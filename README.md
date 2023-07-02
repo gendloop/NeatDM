@@ -1,6 +1,6 @@
-# RepoName
+# NeatDM
 
 ## Install
 
-`scoop install gendloopBucket/RepoName` 
+`scoop install gendloopBucket/NeatDM` 
 
